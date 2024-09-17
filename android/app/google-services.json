@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693573052297",
+    "project_id": "e-afya-82599",
+    "storage_bucket": "e-afya-82599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693573052297:android:c173178c38418002a62358",
+        "android_client_info": {
+          "package_name": "com.edenwf.eafya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693573052297-bloob0f0blohk11g93ei9kv6njni548t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvxh6L0555WtEbw4YK8A0T3cd4ggOKFaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693573052297-bloob0f0blohk11g93ei9kv6njni548t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
