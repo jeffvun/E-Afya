@@ -9,12 +9,12 @@ class DashboardScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: const Navbar(),
-      drawer: const Sidebar(),
+    return const Scaffold(
+      appBar: Navbar(),
+      drawer: Sidebar(),
       body: Center(
         child: Column(
-          children: const [
+          children: [
             Text(
               'E-Afya Dashboard',
               style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
@@ -24,7 +24,7 @@ class DashboardScreen extends StatelessWidget {
           ],
         ),
       ),
-      bottomNavigationBar: const Footer(),
+      bottomNavigationBar: Footer(),
     );
   }
 }
